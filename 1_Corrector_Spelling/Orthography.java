@@ -72,8 +72,7 @@ class Corrector{
                                 if( word.charAt(i+(word.length()-save.length())) == save.charAt(i)) compare += 1; // by right
                                 if( word.charAt(i) == save.charAt(i)) compare += 1; // by left
                             }
-                        }  
-                       
+                        }                   
                         str = deleteChar(str,word.charAt(i)); // not repeat coincidences.
                         //System.out.println(str+" "+compare); // to analyze this code.
                     }
