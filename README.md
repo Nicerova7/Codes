@@ -2,8 +2,9 @@
 Interesanting problems solved by programming
 
 ### 1. Corrector Spelling
-		It's a algorithm based on points to suggest a word that you maybe had wanted to type.
+		A scored-based algorithm which predicts the right spelling of a word.
 		
 
 ### 2. Recursion problem
-		It's a detection of divisors and prime numbers of a number using recursive method.
+		A recursive algorithm which detects divisors and prime numbers of a number then
+		performs a new procedure with the subtraction of the number and its primer divisors.
