@@ -26,24 +26,24 @@ Word is spelled correctly.
 
 ### Incorrect word
 
-    ~~~
-    Type a word: akone
-    Word is not spelled correctly.
-    Did you mean "alone" ?
-    ~~~
+~~~
+Type a word: akone
+Word is not spelled correctly.
+Did you mean "alone" ?
+~~~
 
-    ~~~
-    Type a word: american
-    Word is not spelled correctly.
-    Did you mean "American"?
-    ~~~
+~~~
+Type a word: american
+Word is not spelled correctly.
+Did you mean "American"?
+~~~
 
-    ~~~
-    Type a word: Aturod
-    Word is not spelled correctly.
-    No suggestion
-    ~~~
-    
+~~~
+Type a word: Aturod
+Word is not spelled correctly.
+No suggestion
+~~~
+
 ## Future
 
    This code is only the little first part to a great corrector spelling.
