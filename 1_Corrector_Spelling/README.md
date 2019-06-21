@@ -5,8 +5,8 @@
 
    We have a list of words which will be the set to run our code.
    An user will type a word:
-      * If this word is in the list return a positive mesasge.
-      * If this word isn't in the list return a error message and a word will be suggested.
+   * If this word is in the list return a positive message.
+   * If this word isn't in the list return a error message and a word will be suggested.
 
 Note: We have few words, in this case words which begin with a letter.
 
