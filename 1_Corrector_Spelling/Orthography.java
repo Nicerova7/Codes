@@ -30,9 +30,9 @@ class Corrector{
         String word = reader.nextLine();
         
 
-        if(wordList2.contains(word)) System.out.println("word is spelled correctly.");
+        if(wordList2.contains(word)) System.out.println("Word is spelled correctly.");
         else {
-            System.out.println("word is not spelled correctly.");
+            System.out.println("Word is not spelled correctly.");
             
             int compare = 0;
             int max = -10000;
